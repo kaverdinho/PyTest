@@ -1,0 +1,5 @@
+Ef ég er með skjá stærð 600x600 þá get ég gert rect() kassa sem eru 10x10 og get látið sama variable i bæði, til að tengja þetta saman
+
+
+hugmyndir á leik
+til að kanna kvort að ég er að hitta enemy ss. valid hit get ég fyrst athugað hvaða x,y ég er með (í kassa tölunum) og athugað hvort að enemys eru í kössum nálagt þvi.
